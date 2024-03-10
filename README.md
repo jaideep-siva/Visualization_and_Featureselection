@@ -29,7 +29,9 @@ Further visualizations focus on identifying and analyzing outliers across differ
 
 The notebook explores feature selection techniques to identify significant predictors. Glucose and insulin were identified as impactful features, and models built using only these features performed comparably to those using the full feature set.
 ### Select Kbest 
-![image](https://github.com/jaideep-siva/Visualization_and_Featureselection/assets/112749838/db247b0c-5344-4060-a22a-1130568d7f4b)
+
+![image](https://github.com/jaideep-siva/Visualization_and_Featureselection/assets/112749838/80e1c002-014c-4dbe-b277-b9e1abe07944)
+
 
 ### Principal Component Analysis (PCA)
 
@@ -43,7 +45,9 @@ PCA was employed to reduce dimensionality while retaining the essential variance
 UMAP and t-SNE techniques were used for advanced data visualization, providing a deeper understanding of the data's structure.
 
 ![image](https://github.com/jaideep-siva/Visualization_and_Featureselection/assets/112749838/6276edb6-3c3b-4255-9dfd-91dade03a658)
+
 ![newplot](https://github.com/jaideep-siva/Visualization_and_Featureselection/assets/112749838/b28c133c-346a-4171-b89f-7e260a93c45c)
+
 ![image](https://github.com/jaideep-siva/Visualization_and_Featureselection/assets/112749838/fdc01003-05e8-4acd-b6ab-819720dd717d)
 
 ### Univariate Feature Selection 
